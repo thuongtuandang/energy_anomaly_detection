@@ -1,4 +1,4 @@
-# energy_prediction
+# energy_anomaly_detection
 
 This is a project to detect anomalies for wind turbin active power. For this task, I use the dataset Wind Turbine Scada from Kaggle. It is a big surprise for me because there are strong linear relationships between features and the target variable. Therefore, a simple linear regression model can solve the problem.
 
